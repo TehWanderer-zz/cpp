@@ -35,15 +35,13 @@
         {
             "name": "Win32",
             "includePath": [
-                "C:/Program Files (x86)/IntelSWTools/compilers_and_libraries_2018/windows/compiler/include/*",
-                "$(WindowsSDKPath)\\VC\\Tools\\MSVC\\14.13.26128\\include",
-                "C:/Program Files (x86)/IntelSWToolscompilers_and_libraries_2018.1.156/windows/mkl/include"
+                "C:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\VC\\include",
+                "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.16299.0\\ucrt"
             ],
             "browse": {
                 "limitSymbolsToIncludedHeaders": false,
                 "databaseFilename": "",
                 "path": [
-                    "$(WindowsSDKPath)\\VC\\Tools\\MSVC\\14.13.26128\\include\\*"
                 ]
             },
             "intelliSenseMode": "msvc-x64"
