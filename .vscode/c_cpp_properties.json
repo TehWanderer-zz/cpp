@@ -1,0 +1,53 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "/usr/include"
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": "",
+                "path": [
+                    "/usr/include"
+                ]
+            },
+            "intelliSenseMode": "clang-x64",
+            "macFrameworkPath": [
+                "/System/Library/Frameworks",
+                "/Library/Frameworks"
+            ]
+        },
+        {
+            "name": "Linux",
+            "includePath": [
+                "/usr/include"
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": "",
+                "path": [
+                    "/usr/include"
+                ]
+            },
+            "intelliSenseMode": "clang-x64"
+        },
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:/Program Files (x86)/IntelSWTools/compilers_and_libraries_2018/windows/compiler/include/*",
+                "$(WindowsSDKPath)\\VC\\Tools\\MSVC\\14.13.26128\\include",
+                "C:/Program Files (x86)/IntelSWToolscompilers_and_libraries_2018.1.156/windows/mkl/include"
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": false,
+                "databaseFilename": "",
+                "path": [
+                    "$(WindowsSDKPath)\\VC\\Tools\\MSVC\\14.13.26128\\include\\*"
+                ]
+            },
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 3
+}
